@@ -23,6 +23,7 @@ terraform {
 
 provider "google" {
 
+
   project = "hc-327f90383fff489b9447e89f257"
   region  = "us-central1"
   zone    = "us-central1-c"
