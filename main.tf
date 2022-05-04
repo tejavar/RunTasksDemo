@@ -22,7 +22,6 @@ terraform{
 
 
 provider "google" {
-//  credentials = file("./tmp/credentials2.json")
 
   project = "hc-327f90383fff489b9447e89f257"
   region  = "us-central1"
