@@ -5,7 +5,7 @@ BRANCH="Add_GCP_Firewall_Config_${RANDOM}"
 ########################
 # include the magic
 ########################
-. ./demo-magic/demo-magic.sh
+. ./tools/demo-magic/demo-magic.sh 
 
 # hide the evidence
 clear

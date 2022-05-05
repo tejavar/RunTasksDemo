@@ -14,7 +14,7 @@ terraform{
         organization="terraform-tryout"
 
         workspaces{
-                name="runtaskdemo"
+                name="RunTasksDemo"
         }
 }
 }
